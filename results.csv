@@ -1,0 +1,9 @@
+chan,spacecraft,real,base_found,base_fa,lstm_found,lstm_fa
+P-1,SMAP,3,2,37,1,1
+S-1,SMAP,1,0,0,1,0
+E-1,SMAP,2,0,0,1,2
+E-2,SMAP,1,0,0,1,0
+E-3,SMAP,1,0,0,1,0
+E-4,SMAP,1,0,1,1,1
+E-5,SMAP,1,0,0,0,1
+E-6,SMAP,1,1,0,1,0
